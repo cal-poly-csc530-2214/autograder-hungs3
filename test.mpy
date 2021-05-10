@@ -1,0 +1,11 @@
+def computeDeriv(poly):
+    deriv = []
+    zero = 0
+ {if (len(poly) == 1):,  False} :
+                 {return deriv,  return [0]} 
+    for e in  {for e in range(0, len(poly)):,  range(x+1, y)} :
+ {if (poly[e] == 0):,  False} :
+            zero += 1
+        else:
+            deriv.append(poly[e]*e)
+         {return deriv,  return [0]} 
